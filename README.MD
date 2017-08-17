@@ -15,7 +15,7 @@
 1.[Awesome hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 <h2>Remote jobs</h2>
-1.Awesome remote job <a href="https://github.com/lukasz-madon/awesome-remote-job/><br/>
+1.Awesome remote job https://github.com/lukasz-madon/awesome-remote-job<br/>
 2.[Awesome remote work](https://github.com/hugo53/awesome-RemoteWork)<br/>
 3.[Djinni](http://djinni.com)<br/>
 4.[Landing Jobs](https://landing.jobs)<br/>
