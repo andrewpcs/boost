@@ -1,7 +1,7 @@
 Repo for awesome materials for CS and more
 
 
------------------------------------------Interviews
+<h2>Interview</h2>
 
 1.Everything you need to know about interviews - https://github.com/kdn251/interviews
 
@@ -15,10 +15,10 @@ Repo for awesome materials for CS and more
 1.Awesome hacking - https://github.com/Hack-with-Github/Awesome-Hacking
 
 ------------------------------------------Remote jobs
-1.Awesome remote job - https://github.com/lukasz-madon/awesome-remote-job\r
-2.Awesome remote work - https://github.com/hugo53/awesome-RemoteWork\r
-3.Djinni - http://djinni.co\r
-4.Landing Jobs - https://landing.jobs\r
+1.Awesome remote job - https://github.com/lukasz-madon/awesome-remote-job
+2.Awesome remote work - https://github.com/hugo53/awesome-RemoteWork
+3.Djinni - http://djinni.com
+4.Landing Jobs - https://landing.jobs
 
 
 
