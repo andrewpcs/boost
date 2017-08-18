@@ -27,3 +27,6 @@
 1.[Tim Pope's Vim repo](https://github.com/tpope)
     <h1>Plugins</h2>
         surround.vim
+
+<h2>Operating Systems</h2>
+1.[How To Make Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
