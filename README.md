@@ -1,32 +1,33 @@
-<h1>Repo for awesome materials for CS and more</h1>
+<h1>Repo for awesome CS materials and more</h1>
 
+## Table of Contents
 
-<h2>Interview</h2>
+- [List of CS Courses](#list-of-cs-courses)
+- [Remote Jobs](#remote-jobs)
+- [Security](#security)
+- [Other](#other)
+- [Books](#books)
+- [Operating Systems](#operating-systems)
 
-1.[Everything you need to know about interviews](https://github.com/kdn251/interviews)
+## List of CS Courses
+- [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
+- [OSS University](https://github.com/open-source-society/computer-science/blob/master/README.md)
+- [Open Source CS Degree](https://github.com/mvillaloboz/open-source-cs-degree/blob/master/README.md)
 
+## Remote Jobs
+- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
+- [Awesome Remote Work](https://github.com/hugo53/awesome-RemoteWork)
+- [Djinni](http://djinni.com)
+- [Landing Jobs](https://landing.jobs)
 
-<h2>List of CS Courses</h2>
+## Security
+- [Information Security](https://github.com/Hack-with-Github/Awesome-Hacking)
 
-1.[CS video courses](https://github.com/Developer-Y/cs-video-courses)
+## Other
+- [XPInjection Agile Practices](http://xpinjection.com/)
 
-<h2>Hacking</h2>
+## Books
+- [A Reading List for self-taught computer scientist](https://www.reddit.com/r/books/comments/ch0wt/a_reading_list_for_the_selftaught_computer/)
 
-1.[Awesome hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
-
-<h2>Remote jobs</h2>
-1.[Awesome remote job](https://github.com/lukasz-madon/awesome-remote-job) <br/>
-2.[Awesome remote work](https://github.com/hugo53/awesome-RemoteWork) <br/>
-3.[Djinni](http://djinni.com) <br/>
-4.[Landing Jobs](https://landing.jobs) <br/>
-
-<h2>Markdown Cheatsheet</h2>
-
-
-<h2>Vim</h2>
-1.[Tim Pope's Vim repo](https://github.com/tpope)
-    <h1>Plugins</h2>
-        surround.vim
-
-<h2>Operating Systems</h2>
-1.[How To Make Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+## Operating Systems
+- [How to make Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
