@@ -25,6 +25,7 @@
 
 ## Other
 - [XPInjection Agile Practices](http://xpinjection.com/)
+- [Questions every Java/JavaEE developer should know](https://stackoverflow.com/questions/2114212/questions-every-good-java-java-ee-developer-should-be-able-to-answer)
 
 ## Books
 - [A Reading List for self-taught computer scientist](https://www.reddit.com/r/books/comments/ch0wt/a_reading_list_for_the_selftaught_computer/)
