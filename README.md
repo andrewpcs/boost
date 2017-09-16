@@ -26,9 +26,18 @@
 ## Other
 - [XPInjection Agile Practices](http://xpinjection.com/)
 - [Questions every Java/JavaEE developer should know](https://stackoverflow.com/questions/2114212/questions-every-good-java-java-ee-developer-should-be-able-to-answer)
+- [Quickly ramp up in new programming languages](https://github.com/exercism/exercism.io)
+- [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
+- [Fullstack Web-Dev path](https://github.com/shovanch/fullstack-webdev-path)
 
 ## Books
 - [A Reading List for self-taught computer scientist](https://www.reddit.com/r/books/comments/ch0wt/a_reading_list_for_the_selftaught_computer/)
 
 ## Operating Systems
 - [How to make Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+
+## Awesome awesomeness
+- [A curated list of awesome awesomeness](https://github.com/bayandin/awesome-awesomeness)
+
+## Interviews
+- [Everything you need to know to get the job](https://github.com/kdn251/interviews)
