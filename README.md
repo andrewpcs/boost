@@ -15,6 +15,7 @@
 - [Open Source CS Degree](https://github.com/mvillaloboz/open-source-cs-degree/blob/master/README.md)
 - [A Self-Learning,Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/#org48b7195)
 - [List of Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
+- [Hacker News - List of Cs Courses](https://news.ycombinator.com/item?id=8806910)
 
 ## Remote Jobs
 - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
