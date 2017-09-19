@@ -13,6 +13,8 @@
 - [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
 - [OSS University](https://github.com/open-source-society/computer-science/blob/master/README.md)
 - [Open Source CS Degree](https://github.com/mvillaloboz/open-source-cs-degree/blob/master/README.md)
+- [A Self-Learning,Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/#org48b7195)
+- [List of Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
 
 ## Remote Jobs
 - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
