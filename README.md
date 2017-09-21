@@ -44,3 +44,6 @@
 
 ## Interviews
 - [Everything you need to know to get the job](https://github.com/kdn251/interviews)
+
+## Mathematics
+- [Awesome Math](https://github.com/rossant/awesome-math#books)
