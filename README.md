@@ -47,3 +47,6 @@
 
 ## Mathematics
 - [Awesome Math](https://github.com/rossant/awesome-math#books)
+
+## Websites that every programmer should visit
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit
