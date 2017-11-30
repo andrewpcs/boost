@@ -49,7 +49,7 @@
 - [Awesome Math](https://github.com/rossant/awesome-math#books)
 
 ## Websites that every programmer should visit
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+[Websites that every programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
 ## Awesome Docker
-https://github.com/veggiemonk/awesome-docker
+[awesome docker](https://github.com/veggiemonk/awesome-docker)
